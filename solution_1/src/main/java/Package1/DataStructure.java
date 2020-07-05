@@ -1,5 +1,4 @@
-package packageSolution;
-import java.lang;
+package Package1;
 /**
  * Hello world!
  *
