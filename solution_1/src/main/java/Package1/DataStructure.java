@@ -1,10 +1,10 @@
-package package_Solution;
-
+package packageSolution;
+import java.lang;
 /**
  * Hello world!
  *
  */
-public class App 
+public class DataStructure
 {
     public static void main( String[] args )
     {
